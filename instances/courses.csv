@@ -1,0 +1,301 @@
+CourseID,CourseName,Instructor,Enrollment,Duration,RoomFeatures
+CS100,Course_0,Mr Aamir Gulzar,55,50,
+CS101,Course_1,Mr Hasnain Akhtar,51,50,Whiteboard
+CS102,Course_2,Maam Bushra Kanwal,31,50,Projector
+CS103,Course_3,Maam Marium Hida,53,50,Lab
+CS104,Course_4,Mr Anas Bin Rashid,57,75,Projector
+CS105,Course_5,Mr Hasnain Akhtar,60,75,Projector
+CS106,Course_6,Mr Arshad Islam,79,50,Projector;Whiteboard
+CS107,Course_7,Mr Bilal Ali_7,47,75,
+CS108,Course_8,Mr Tariq Ahmed_9,66,50,
+CS109,Course_9,Mr Aamir Gulzar,30,75,
+CS110,Course_10,Maam Bushra Kanwal,58,50,Whiteboard
+CS111,Course_11,Mr Anas Bin Rashid,32,50,Projector;Lab;Whiteboard
+CS112,Course_12,Mr Hasnain Akhtar,67,75,Projector;Whiteboard
+CS113,Course_13,Mr Aamir Gulzar,26,50,Whiteboard
+CS114,Course_14,Maam Marium Hida,73,50,
+CS115,Course_15,Mr Aamir Gulzar,58,75,
+CS116,Course_16,Mr Bilal Ali_8,77,75,Lab
+CS117,Course_17,Mr Arshad Islam,50,75,Projector;Whiteboard
+CS118,Course_18,Mr Hasan Mujtaba,77,75,Projector;Lab
+CS119,Course_19,Mr Aamir Gulzar,46,50,Projector;Whiteboard
+CS120,Course_20,Mr Aamir Gulzar,42,50,Lab
+CS121,Course_21,Mr Bilal Ali_8,38,75,Lab;Whiteboard
+CS122,Course_22,Mr Bilal Ali_7,42,75,Projector
+CS123,Course_23,Mr Hasnain Akhtar,35,50,Whiteboard
+CS124,Course_24,Mr Hasan Mujtaba,70,75,Lab
+CS125,Course_25,Mr Arshad Islam,36,50,Whiteboard
+CS126,Course_26,Mr Bilal Ali_7,30,50,Lab
+CS127,Course_27,Mr Anas Bin Rashid,62,50,Whiteboard
+CS128,Course_28,Mr Tariq Ahmed_9,57,75,Lab;Whiteboard
+CS129,Course_29,Mr Hasan Mujtaba,45,50,
+CS100,Course_0,Mr Hasnain Akhtar,38,75,
+CS101,Course_1,Mr Hasnain Akhtar,24,75,
+CS102,Course_2,Maam Bushra Kanwal,60,75,Lab
+CS103,Course_3,Maam Bushra Kanwal,25,75,
+CS104,Course_4,Maam Ayesha Iqbal_8,63,75,
+CS105,Course_5,Mr Hasnain Akhtar,66,50,
+CS106,Course_6,Mr Usman Ahmed_7,76,75,Projector;Whiteboard
+CS107,Course_7,Mr Bilal Ali_7,63,75,Projector
+CS108,Course_8,Mr Arshad Islam,42,50,Whiteboard
+CS109,Course_9,Mr Hasnain Akhtar,34,50,
+CS110,Course_10,Maam Ayesha Iqbal_8,22,75,Lab;Whiteboard
+CS111,Course_11,Mr Anas Bin Rashid,76,75,Lab;Whiteboard
+CS112,Course_12,Mr Aamir Gulzar,39,50,
+CS113,Course_13,Mr Hasan Mujtaba,69,75,
+CS114,Course_14,Mr Arshad Islam,25,50,
+CS115,Course_15,Mr Hasnain Akhtar,54,75,
+CS116,Course_16,Mr Hasnain Akhtar,31,50,Projector;Lab
+CS117,Course_17,Mr Aamir Gulzar,54,75,Projector;Lab
+CS118,Course_18,Mr Tariq Ahmed_9,70,50,Lab;Whiteboard
+CS119,Course_19,Maam Marium Hida,57,75,Projector
+CS120,Course_20,Maam Marium Hida,54,75,Whiteboard
+CS121,Course_21,Mr Hasan Mujtaba,66,50,
+CS122,Course_22,Mr Usman Ahmed_7,24,75,Projector;Lab
+CS123,Course_23,Mr Tariq Khan_9,52,75,Projector
+CS124,Course_24,Mr Aamir Gulzar,57,50,Whiteboard
+CS125,Course_25,Mr Aamir Gulzar,55,75,Projector;Lab
+CS126,Course_26,Mr Anas Bin Rashid,40,75,Projector
+CS127,Course_27,Mr Hasnain Akhtar,79,50,Lab
+CS128,Course_28,Maam Bushra Kanwal,72,50,Whiteboard
+CS129,Course_29,Mr Tariq Khan_9,40,75,Projector
+CS100,Course_0,Mr Aamir Gulzar,35,50,Projector;Lab
+CS101,Course_1,Mr Arshad Islam,71,75,Lab
+CS102,Course_2,Mr Hasnain Akhtar,73,75,Lab
+CS103,Course_3,Mr Anas Bin Rashid,79,50,Whiteboard
+CS104,Course_4,Maam Bushra Kanwal,20,75,Whiteboard
+CS105,Course_5,Mr Anas Bin Rashid,56,50,
+CS106,Course_6,Mr Anas Bin Rashid,70,50,
+CS107,Course_7,Mr Tariq Ahmed_9,50,50,
+CS108,Course_8,Maam Bushra Kanwal,50,75,Whiteboard
+CS109,Course_9,Maam Marium Hida,46,50,Projector;Whiteboard
+CS110,Course_10,Mr Hasan Mujtaba,58,50,Projector;Lab
+CS111,Course_11,Mr Bilal Ali_8,41,50,Whiteboard
+CS112,Course_12,Mr Aamir Gulzar,28,50,Lab;Whiteboard
+CS113,Course_13,Maam Marium Hida,28,75,
+CS114,Course_14,Maam Marium Hida,55,50,Whiteboard
+CS115,Course_15,Mr Hasan Mujtaba,61,75,Projector;Lab;Whiteboard
+CS116,Course_16,Mr Arshad Islam,28,50,Projector;Whiteboard
+CS117,Course_17,Mr Anas Bin Rashid,62,50,Lab
+CS118,Course_18,Mr Anas Bin Rashid,36,50,Lab
+CS119,Course_19,Mr Hasan Mujtaba,36,50,
+CS120,Course_20,Mr Arshad Islam,56,75,Projector;Whiteboard
+CS121,Course_21,Mr Anas Bin Rashid,66,50,Lab
+CS122,Course_22,Mr Bilal Ali_7,37,50,Projector
+CS123,Course_23,Mr Usman Ahmed_7,55,75,Projector
+CS124,Course_24,Mr Aamir Gulzar,55,50,Projector;Lab;Whiteboard
+CS125,Course_25,Maam Marium Hida,59,75,Whiteboard
+CS126,Course_26,Maam Marium Hida,37,75,
+CS127,Course_27,Mr Hasan Mujtaba,37,50,Projector;Lab
+CS128,Course_28,Mr Arshad Islam,41,75,Projector
+CS129,Course_29,Mr Hasan Mujtaba,25,50,Whiteboard
+CS100,Course_0,Maam Marium Hida,59,75,Projector;Whiteboard
+CS101,Course_1,Maam Fatima Malik_9,26,75,
+CS102,Course_2,Maam Ayesha Iqbal_8,77,75,Projector
+CS103,Course_3,Mr Tariq Ahmed_9,73,75,Projector;Lab
+CS104,Course_4,Mr Aamir Gulzar,54,50,Projector;Lab;Whiteboard
+CS105,Course_5,Maam Marium Hida,21,75,Projector
+CS106,Course_6,Maam Bushra Kanwal,43,50,Projector
+CS107,Course_7,Maam Marium Hida,52,75,Projector;Whiteboard
+CS108,Course_8,Mr Hasnain Akhtar,47,75,
+CS109,Course_9,Mr Arshad Islam,25,50,
+CS110,Course_10,Mr Aamir Gulzar,70,50,Projector
+CS111,Course_11,Mr Aamir Gulzar,70,75,
+CS112,Course_12,Mr Anas Bin Rashid,77,75,
+CS113,Course_13,Mr Hasan Mujtaba,73,75,
+CS114,Course_14,Mr Hasnain Akhtar,21,75,Projector
+CS115,Course_15,Mr Bilal Ali_8,44,50,Projector
+CS116,Course_16,Mr Arshad Islam,62,50,Projector
+CS117,Course_17,Mr Anas Bin Rashid,27,50,Lab
+CS118,Course_18,Maam Marium Hida,53,50,Projector;Lab;Whiteboard
+CS119,Course_19,Mr Hasnain Akhtar,69,50,
+CS120,Course_20,Mr Arshad Islam,30,50,Lab;Whiteboard
+CS121,Course_21,Mr Hasan Mujtaba,39,50,
+CS122,Course_22,Mr Hasnain Akhtar,29,75,Whiteboard
+CS123,Course_23,Maam Ayesha Iqbal_8,25,75,Lab
+CS124,Course_24,Mr Hasan Mujtaba,41,75,Projector;Whiteboard
+CS125,Course_25,Mr Arshad Islam,27,75,
+CS126,Course_26,Mr Aamir Gulzar,64,50,Projector;Lab;Whiteboard
+CS127,Course_27,Mr Arshad Islam,69,75,Lab
+CS128,Course_28,Mr Arshad Islam,43,50,Projector
+CS129,Course_29,Mr Aamir Gulzar,69,75,Projector
+CS100,Course_0,Mr Arshad Islam,20,75,
+CS101,Course_1,Maam Bushra Kanwal,57,50,Projector
+CS102,Course_2,Mr Anas Bin Rashid,61,75,
+CS103,Course_3,Mr Anas Bin Rashid,25,75,Lab;Whiteboard
+CS104,Course_4,Mr Usman Ahmed_7,25,75,Projector;Whiteboard
+CS105,Course_5,Mr Anas Bin Rashid,50,75,Lab;Whiteboard
+CS106,Course_6,Maam Marium Hida,38,50,
+CS107,Course_7,Mr Usman Ahmed_7,28,50,Projector
+CS108,Course_8,Mr Hasan Mujtaba,75,75,Projector
+CS109,Course_9,Maam Bushra Kanwal,47,50,Projector;Lab;Whiteboard
+CS110,Course_10,Mr Arshad Islam,52,50,
+CS111,Course_11,Mr Bilal Ali_7,71,50,Projector;Whiteboard
+CS112,Course_12,Mr Hasan Mujtaba,32,75,
+CS113,Course_13,Mr Tariq Malik_9,37,75,Projector;Whiteboard
+CS114,Course_14,Mr Arshad Islam,72,75,Lab
+CS115,Course_15,Maam Ayesha Malik_8,26,50,
+CS116,Course_16,Maam Bushra Kanwal,41,75,
+CS117,Course_17,Mr Hasan Mujtaba,64,50,
+CS118,Course_18,Mr Tariq Khan_9,41,50,Projector
+CS119,Course_19,Mr Hasnain Akhtar,27,75,Lab
+CS120,Course_20,Mr Arshad Islam,71,75,Projector
+CS121,Course_21,Maam Fatima Ahmed_9,38,50,
+CS122,Course_22,Mr Hasnain Akhtar,24,50,
+CS123,Course_23,Maam Marium Hida,68,50,Projector;Lab
+CS124,Course_24,Mr Anas Bin Rashid,62,75,Projector;Lab
+CS125,Course_25,Mr Hasnain Akhtar,41,50,Lab;Whiteboard
+CS126,Course_26,Maam Marium Hida,78,50,Projector;Whiteboard
+CS127,Course_27,Mr Tariq Ahmed_9,28,75,Projector;Whiteboard
+CS128,Course_28,Mr Arshad Islam,52,75,
+CS129,Course_29,Mr Aamir Gulzar,21,75,Whiteboard
+CS100,Course_0,Mr Aamir Gulzar,38,50,Whiteboard
+CS101,Course_1,Mr Aamir Gulzar,27,50,Projector;Whiteboard
+CS102,Course_2,Mr Aamir Gulzar,77,50,Lab
+CS103,Course_3,Mr Aamir Gulzar,79,50,Projector
+CS104,Course_4,Mr Arshad Islam,57,50,Whiteboard
+CS105,Course_5,Mr Anas Bin Rashid,47,50,Whiteboard
+CS106,Course_6,Mr Tariq Ahmed_7,71,75,Lab
+CS107,Course_7,Mr Usman Malik_8,64,50,Whiteboard
+CS108,Course_8,Mr Hasnain Akhtar,62,75,
+CS109,Course_9,Mr Aamir Gulzar,41,75,
+CS110,Course_10,Mr Anas Bin Rashid,78,50,Lab
+CS111,Course_11,Mr Anas Bin Rashid,64,75,Lab;Whiteboard
+CS112,Course_12,Maam Bushra Kanwal,24,75,
+CS113,Course_13,Maam Ayesha Iqbal_8,75,75,Lab;Whiteboard
+CS114,Course_14,Mr Arshad Islam,37,75,Projector
+CS115,Course_15,Mr Hasnain Akhtar,40,75,Lab
+CS116,Course_16,Maam Bushra Kanwal,30,75,
+CS117,Course_17,Mr Aamir Gulzar,78,50,Whiteboard
+CS118,Course_18,Maam Marium Hida,42,75,Lab
+CS119,Course_19,Mr Hasnain Akhtar,74,50,Whiteboard
+CS120,Course_20,Maam Marium Hida,66,75,Lab;Whiteboard
+CS121,Course_21,Mr Anas Bin Rashid,57,75,
+CS122,Course_22,Maam Bushra Kanwal,24,50,
+CS123,Course_23,Mr Anas Bin Rashid,72,50,Lab
+CS124,Course_24,Mr Aamir Gulzar,58,75,Projector;Lab
+CS125,Course_25,Mr Hasnain Akhtar,44,75,
+CS126,Course_26,Maam Ayesha Khan_8,45,50,Projector;Lab;Whiteboard
+CS127,Course_27,Mr Tariq Malik_9,78,50,Lab;Whiteboard
+CS128,Course_28,Maam Fatima Khan_7,73,50,Projector
+CS129,Course_29,Mr Usman Malik_8,35,50,
+CS100,Course_0,Mr Aamir Gulzar,35,75,Whiteboard
+CS101,Course_1,Maam Bushra Kanwal,53,50,Lab
+CS102,Course_2,Maam Fatima Ahmed_9,61,50,Projector;Lab
+CS103,Course_3,Mr Anas Bin Rashid,32,75,
+CS104,Course_4,Mr Anas Bin Rashid,75,75,Whiteboard
+CS105,Course_5,Mr Bilal Ahmed_8,29,75,
+CS106,Course_6,Mr Bilal Khan_9,25,75,
+CS107,Course_7,Mr Tariq Ali_7,24,50,Projector;Whiteboard
+CS108,Course_8,Maam Marium Hida,61,75,Projector;Lab
+CS109,Course_9,Mr Tariq Ahmed_9,73,75,Projector;Lab
+CS110,Course_10,Maam Marium Hida,70,75,Projector;Lab;Whiteboard
+CS111,Course_11,Mr Arshad Islam,28,75,Projector
+CS112,Course_12,Mr Hasnain Akhtar,71,50,Projector
+CS113,Course_13,Mr Bilal Khan_9,49,50,
+CS114,Course_14,Maam Bushra Kanwal,48,75,
+CS115,Course_15,Mr Hasan Mujtaba,36,50,
+CS116,Course_16,Mr Bilal Ali_7,67,75,Lab
+CS117,Course_17,Mr Arshad Islam,33,75,Projector;Lab
+CS118,Course_18,Mr Hasan Mujtaba,48,75,Projector
+CS119,Course_19,Maam Marium Hida,68,50,Lab
+CS120,Course_20,Mr Bilal Ali_7,51,50,Whiteboard
+CS121,Course_21,Mr Arshad Islam,47,50,
+CS122,Course_22,Maam Marium Hida,57,75,Lab;Whiteboard
+CS123,Course_23,Mr Tariq Khan_8,20,50,Projector;Lab
+CS124,Course_24,Mr Hasan Mujtaba,79,50,
+CS125,Course_25,Maam Bushra Kanwal,63,75,Lab
+CS126,Course_26,Maam Marium Hida,61,50,Projector;Whiteboard
+CS127,Course_27,Mr Arshad Islam,57,75,Whiteboard
+CS128,Course_28,Mr Tariq Malik_9,40,50,Lab;Whiteboard
+CS129,Course_29,Mr Aamir Gulzar,53,50,
+CS100,Course_0,Mr Hasan Mujtaba,73,75,
+CS101,Course_1,Mr Arshad Islam,25,75,Whiteboard
+CS102,Course_2,Mr Hasan Mujtaba,36,75,Lab
+CS103,Course_3,Maam Marium Hida,52,50,Lab;Whiteboard
+CS104,Course_4,Mr Hasnain Akhtar,69,75,
+CS105,Course_5,Mr Hasnain Akhtar,21,50,Lab
+CS106,Course_6,Mr Hasnain Akhtar,49,50,Projector;Lab
+CS107,Course_7,Mr Usman Malik_7,55,75,Whiteboard
+CS108,Course_8,Maam Marium Hida,31,75,Projector;Lab
+CS109,Course_9,Mr Hasan Mujtaba,36,50,Projector;Whiteboard
+CS110,Course_10,Mr Anas Bin Rashid,39,50,Projector
+CS111,Course_11,Mr Arshad Islam,38,75,Whiteboard
+CS112,Course_12,Mr Aamir Gulzar,59,50,
+CS113,Course_13,Mr Bilal Ahmed_8,80,75,Lab
+CS114,Course_14,Mr Tariq Khan_8,38,75,Whiteboard
+CS115,Course_15,Mr Hasnain Akhtar,54,50,Projector;Lab
+CS116,Course_16,Mr Aamir Gulzar,59,50,
+CS117,Course_17,Mr Tariq Khan_9,29,50,Projector;Lab
+CS118,Course_18,Mr Arshad Islam,39,50,Projector;Lab;Whiteboard
+CS119,Course_19,Mr Hasnain Akhtar,65,75,Whiteboard
+CS120,Course_20,Maam Marium Hida,50,75,
+CS121,Course_21,Mr Anas Bin Rashid,74,50,Lab
+CS122,Course_22,Mr Hasnain Akhtar,68,75,Projector
+CS123,Course_23,Mr Hasan Mujtaba,72,50,
+CS124,Course_24,Maam Marium Hida,71,75,Projector;Whiteboard
+CS125,Course_25,Mr Hasan Mujtaba,23,75,
+CS126,Course_26,Maam Fatima Khan_7,64,50,Projector;Lab
+CS127,Course_27,Maam Marium Hida,78,75,
+CS128,Course_28,Mr Arshad Islam,66,75,Lab
+CS129,Course_29,Mr Hasnain Akhtar,54,50,
+CS100,Course_0,Maam Marium Hida,74,50,
+CS101,Course_1,Mr Arshad Islam,37,50,Lab
+CS102,Course_2,Mr Hasan Mujtaba,26,75,
+CS103,Course_3,Mr Arshad Islam,44,50,
+CS104,Course_4,Mr Hasnain Akhtar,77,50,
+CS105,Course_5,Mr Aamir Gulzar,38,50,
+CS106,Course_6,Mr Usman Ahmed_7,22,50,Whiteboard
+CS107,Course_7,Mr Aamir Gulzar,21,75,
+CS108,Course_8,Mr Hasnain Akhtar,36,75,Whiteboard
+CS109,Course_9,Maam Bushra Kanwal,80,50,Projector;Lab
+CS110,Course_10,Mr Hasan Mujtaba,43,50,Projector;Lab
+CS111,Course_11,Mr Hasan Mujtaba,37,75,Lab
+CS112,Course_12,Maam Bushra Kanwal,62,50,Projector;Whiteboard
+CS113,Course_13,Maam Bushra Kanwal,40,75,Lab
+CS114,Course_14,Mr Bilal Ali_7,25,50,Whiteboard
+CS115,Course_15,Maam Bushra Kanwal,80,50,Lab;Whiteboard
+CS116,Course_16,Mr Tariq Malik_9,76,50,Lab
+CS117,Course_17,Mr Tariq Khan_8,63,50,
+CS118,Course_18,Mr Anas Bin Rashid,68,75,Whiteboard
+CS119,Course_19,Mr Hasnain Akhtar,78,50,Whiteboard
+CS120,Course_20,Maam Marium Hida,66,75,
+CS121,Course_21,Mr Arshad Islam,77,50,
+CS122,Course_22,Mr Anas Bin Rashid,23,75,Projector;Lab
+CS123,Course_23,Mr Hasnain Akhtar,62,75,Lab
+CS124,Course_24,Mr Bilal Ali_8,27,50,Lab
+CS125,Course_25,Maam Fatima Ahmed_9,78,50,Whiteboard
+CS126,Course_26,Maam Bushra Kanwal,48,75,Whiteboard
+CS127,Course_27,Mr Arshad Islam,65,50,
+CS128,Course_28,Maam Marium Hida,62,50,Projector
+CS129,Course_29,Mr Hasan Mujtaba,56,50,Whiteboard
+CS100,Course_0,Mr Bilal Khan_9,28,50,
+CS101,Course_1,Mr Anas Bin Rashid,23,75,Lab
+CS102,Course_2,Mr Anas Bin Rashid,38,75,Projector;Lab
+CS103,Course_3,Maam Bushra Kanwal,48,75,Projector;Whiteboard
+CS104,Course_4,Mr Tariq Ahmed_9,52,50,Projector
+CS105,Course_5,Mr Aamir Gulzar,43,50,
+CS106,Course_6,Mr Hasnain Akhtar,73,75,
+CS107,Course_7,Maam Fatima Ahmed_9,28,75,
+CS108,Course_8,Maam Marium Hida,45,75,
+CS109,Course_9,Mr Bilal Malik_7,75,75,Projector;Lab
+CS110,Course_10,Mr Usman Malik_8,22,50,Whiteboard
+CS111,Course_11,Mr Hasan Mujtaba,42,75,
+CS112,Course_12,Mr Hasan Mujtaba,59,75,Lab;Whiteboard
+CS113,Course_13,Mr Arshad Islam,22,75,Projector
+CS114,Course_14,Mr Aamir Gulzar,39,50,Projector
+CS115,Course_15,Mr Aamir Gulzar,28,75,Projector
+CS116,Course_16,Mr Aamir Gulzar,56,50,
+CS117,Course_17,Maam Marium Hida,52,50,Projector;Lab;Whiteboard
+CS118,Course_18,Mr Anas Bin Rashid,73,75,
+CS119,Course_19,Mr Usman Malik_7,69,75,Whiteboard
+CS120,Course_20,Maam Marium Hida,75,75,
+CS121,Course_21,Maam Ayesha Malik_8,73,75,
+CS122,Course_22,Mr Hasnain Akhtar,74,75,Lab
+CS123,Course_23,Maam Bushra Kanwal,26,50,
+CS124,Course_24,Maam Ayesha Malik_8,76,75,
+CS125,Course_25,Mr Usman Malik_8,37,50,Projector;Lab
+CS126,Course_26,Mr Hasnain Akhtar,28,50,Lab
+CS127,Course_27,Mr Hasnain Akhtar,45,75,
+CS128,Course_28,Maam Bushra Kanwal,22,50,
+CS129,Course_29,Maam Fatima Ahmed_9,58,75,
